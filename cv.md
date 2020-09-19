@@ -1,6 +1,13 @@
 # **Resume**
 1. ## Anna Davydenko ##
 
+2.	### *Contact info:* ###
+  * Mobile: +375 29 2544737
+  * Gmail: annadavydenko2544737@gmail.com
+  * Telegram: https://t.me/AnaaaD
+  * GitHub:	  https://github.com/AnnaDavydenko
+  * LinkedIn:  https://www.linkedin.com/in/anna-davydenko-20bbb5151/
+
 3.	### *Summary* ### 
 Self taught front-end developer, who is able to realize projects from the ground up.
 
