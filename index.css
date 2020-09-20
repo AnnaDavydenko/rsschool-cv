@@ -50,7 +50,6 @@ main {
   justify-content: flex-start;
   flex: 3;
   background-color: #bee7fd;
-  padding: 10px;
 }
 
 h3 {
@@ -130,6 +129,11 @@ img {
 p{
   color: #444440;
   font-size: 16px;
+}
+
+.university, .courses{
+  padding: 10px;
+  line-height: 23px;
 }
 
 .rightSection{
